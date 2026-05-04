@@ -10,7 +10,7 @@
     ["Corsair Crystal 570X RGB Mid-Tower Case","https://ik.imagekit.io/kit/products/33/e4/corsair-crystal-570x-33e40a1fc3bd37453b1d2b7096ad3569.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Asus MG278Q 27\" WQHD 1440P 144Hz Gaming Monitor","https://ik.imagekit.io/kit/products/7d/4b/asus-mg278q-27-wqhd-7d4b6d6a6d7caecaf2b229880927d53e.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Shure MV7 USB Microphone","https://ik.imagekit.io/kit/products/93/ec/shure-mv7-usb-microp-93ec1ec1288831371ef05e5fc13762c6.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
-    ["Shure RK345 Replacement Windscreen for SM7","https://ik.imagekit.io/kit/products/49/33/shure-rk345-black-re-49338f410f6e04fe0acc3e2611593a3c.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
+    ["Shure RK345 Replacement Windscreen for SM7B","https://ik.imagekit.io/kit/products/49/33/shure-rk345-black-re-49338f410f6e04fe0acc3e2611593a3c.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Elgato Stream Deck 15-Key Controller","https://ik.imagekit.io/kit/products/07/3a/elgato-stream-deck-073a7cca5ab3b6c7adfbcf71413bd764.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Corsair K95 RGB Platinum Mechanical Keyboard","https://ik.imagekit.io/kit/products/95/6c/corsair-k95-rgb-plat-956c13f7fc9e94321eaa1605c04990b9.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Logitech G PRO X SUPERLIGHT 2 Wireless Mouse","https://ik.imagekit.io/kit/products/c0/5b/logitech-g-pro-x-sup-c05be8dffd6e624d4f30a0ffbe62c047.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
@@ -18,7 +18,9 @@
     ["Corsair LL120 RGB Fan 3-Pack (CO-9050072-WW)","https://ik.imagekit.io/kit/products/b9/c9/corsair-ll-series-ll-b9c9a8eb6b475261dfab798a9ef55bf4.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["SENNHEISER PC 373D 7.1 Surround Gaming Headset","https://ik.imagekit.io/kit/products/24/9e/sennheiser-pc-373d-249e2b6a220fca959870f831e7225d94.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["ASUS ROG STRIX Arion M.2 NVMe SSD Enclosure","https://ik.imagekit.io/kit/products/e5/28/asus-rog-strix-arion-e528b96c7bc413561850fa4489a3c831.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
-    ["Xbox Core Wireless Controller + USB-C","https://ik.imagekit.io/kit/products/a0/7f/xbox-core-wireless-g-a07f886e70d166101481682d69ab9c82.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"]
+    ["Xbox Core Wireless Controller + USB-C","https://ik.imagekit.io/kit/products/a0/7f/xbox-core-wireless-g-a07f886e70d166101481682d69ab9c82.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
+    ["Elgato Stream Deck 15-Key","https://ik.imagekit.io/kit/products/07/3a/elgato-stream-deck-073a7cca5ab3b6c7adfbcf71413bd764.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"]
+
   ]],
   ["Streaming Rig","📺",15,[
     ["MSI B450 TOMAHAWK MAX II Gaming Motherboard","https://ik.imagekit.io/kit/products/30/c5/msi-b450-tomahawk-ma-30c52779e78cb89f35ed5b0c17a940e3.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
@@ -27,15 +29,16 @@
     ["Cooler Master MasterBox MB511 ARGB Mid-Tower","https://ik.imagekit.io/kit/products/b8/b0/cooler-master-master-b8b0af647b7809734fa23edf98fe44da.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Lexar NM610 M.2 PCIe NVMe 500GB SSD","https://ik.imagekit.io/kit/products/12/39/lexar-nm610-m-2-2280-1239a8e5210156acdbd89befcb3697a8.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Corsair CV550 550W 80+ Bronze PSU","https://ik.imagekit.io/kit/products/a2/0c/corsair-cv-series-c-a20c3f70f3c33f41692edc59e900444d.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
-    ["Elgato Stream Deck 15-Key Controller","https://ik.imagekit.io/kit/products/07/3a/elgato-stream-deck-073a7cca5ab3b6c7adfbcf71413bd764.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Logitech G305 Lightspeed Wireless Mouse","https://ik.imagekit.io/kit/products/20/19/logitech-g305-lights-201924a8aab06bad66af42b92c587a67.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Redragon K530 Pro 60% Wireless Mechanical Keyboard","https://ik.imagekit.io/kit/products/4e/d0/redragon-k530-pro-dr-4ed04a594bf5ef92fde0cf0e5f59e79f.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Behringer U-Phoria UMC22 USB Audio Interface","https://ik.imagekit.io/kit/products/c3/92/behringer-u-phoria-u-c3926a89780e2e6f6e0c1121870d21de.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["AVerMedia BU113 Live Streamer Cap 4K Capture","https://ik.imagekit.io/kit/products/4d/29/avermedia-bu113-live-4d29e0fc08dca57ac7387cc941f9e187.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Elgato Stream Deck + with Audio Mixer","https://ik.imagekit.io/kit/products/bf/8b/elgato-usb-c-stream-bf8bdac658d7bb61312afe247cfd663e.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
+    ["Elgato Stream Deck 32-Key XL","https://res.cloudinary.com/elgato-pwa/image/upload/q_auto,f_auto/f_auto/q_auto:best/v1747735148/Products/10GAT9901/above-the-fold/NEW/Stream-Deck-XL-ATF-02.jpg"],
     ["Acer V246HL 24\" 1080p LED LCD Monitor","https://ik.imagekit.io/kit/products/55/2c/acer-v6-series-v246h-552c80774ec495d04342e6897aeac159.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
     ["Corsair VENGEANCE RGB PRO 32GB DDR4 3600MHz","https://ik.imagekit.io/kit/products/21/6b/corsair-vengeance-rg-216bb10f0fe87a43e468b7c49cdfc346.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
-    ["Sony Alpha A6100 Mirrorless Camera 16-50mm","https://ik.imagekit.io/kit/products/b8/56/sony-alpha-a6100-mir-b856ee95bfa1b7ff758d416043c32ec2.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"]
+    ["Sony Alpha A6100 Mirrorless Camera 16-50mm","https://ik.imagekit.io/kit/products/b8/56/sony-alpha-a6100-mir-b856ee95bfa1b7ff758d416043c32ec2.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
+    ["Sony FE 35mm F1.8 Prime Lens","https://www.sony.com/image/f7d041caae30ba29a1dc65b227530f90?fmt=png-alpha&wid=1578&hei=1050&bgcolor=F6F9FF.png"]
   ]],
   ["Stuff I've Owned in the Past","📦",30,[
     ["HyperX Fury RGB 3200MHz DDR4 CL16","https://ik.imagekit.io/kit/products/3b/15/hyperx-fury-rgb-16gb-3b150d2a8f967f81f801a57c3f26eb88.png?tr=w-200,h-200,cm-pad_resize,bg-111111,q-80"],
